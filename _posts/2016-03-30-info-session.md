@@ -2,11 +2,12 @@
 layout: post
 title: First Information Session (April 1st)
 subtitle: prepare your questions about the course...
-date: 2016-03-30
+date: 2020-03-03
 ---
 
 **Remember!!!** 
-our first information session is this Friday April 1st, at 5:00 pm in the Biodiversity Building Room 224 (second floor).
+our first information session is on Wednesday April 1st, at 4:00 pm in the Biodiversity Building Room 224 (second floor).
+We can tell you more about what this course if one-in-a-life-time experience. 
 
 Don't know where is it?, don't worry... here is a map 
 
@@ -14,3 +15,5 @@ Don't know where is it?, don't worry... here is a map
 
 
 See you all there!
+
+Or email us your questions to biol409course@gmail.com
