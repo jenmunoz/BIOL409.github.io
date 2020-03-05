@@ -6,8 +6,8 @@ date: 2020-03-03
 ---
 
 **Remember!!!** 
-our first information session is on Wednesday April 1st, at 4:00 pm in the Biodiversity Building Room 224 (second floor).
-We can tell you more about what this course if one-in-a-life-time experience. 
+our first information session is on Wednesday March 25th, at 4:00 pm in the Biodiversity Building Room 224 (second floor).
+We can tell you more about why this course if one-in-a-life-time experience. 
 
 Don't know where is it?, don't worry... here is a map 
 
