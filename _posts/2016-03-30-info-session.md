@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Information Session (March 25th)
+title: First Information Session (March 26th)
 subtitle: prepare your questions about the course...
 date: 2020-01-01
 ---
