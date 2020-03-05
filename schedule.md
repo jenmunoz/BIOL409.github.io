@@ -19,7 +19,7 @@ We will send a list of people and dates to arrange accommodation as a group, so 
 | 19-July | Cusco | Students arrival + Flexible day |
 | 20-July | Cusco | Leave for Wayqecha |
 | 21-July | Wayqecha | Fieldwork |
-| 22-July | Wayqecha | Fieldwork + Hiking Tres Cruces |
+| 22-July | Wayqecha | Fieldwork + Hiking Tres Cruces+ Optionb leave for San Pedro|
 | 23-July | Wayqecha | Leave for San Pedro |
 | 24-July | San Pedro | Fieldwork |
 | 25-July | San Pedro | Fieldwork |
@@ -35,7 +35,7 @@ We will send a list of people and dates to arrange accommodation as a group, so 
 | 04-August| Cocha Cashu | Leave for Pantiacolla |
 | 05-August| Pantiacolla | Leave for San Pedro |
 | 06-August| San Pedro | Leave for Cusco |
-| 07-August| Cusco |
+| 07-August| Cusco |Late arrival|
 | 08-August| Aguas Calientes |Optional visit to  MachuPicchu |
 | 09-10-11-August| Cusco | Return to the Beautiful British Columbia! |
 
