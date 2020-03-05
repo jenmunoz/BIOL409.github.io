@@ -2,7 +2,7 @@
 layout: post
 title: First Information Session (March 25th)
 subtitle: prepare your questions about the course...
-date: 2020-03-05
+date: 2020-04-03
 ---
 
 **Remember!!!** 
